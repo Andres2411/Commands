@@ -1,2 +1,58 @@
 LINUX COMMANDS
 
+sudo = Es el comando con todos los permisos para realizar cambios 
+uptime = Verifica por cuanto tiempo el Sistema operativo ha estado encendido 
+uname -a =  imprimir información sobre su sistema operativo.
+lsb_release -a  = Imprime información específica de la distribución 
+ps -aux = Informar una instantánea de los procesos actuales
+top = Lista de procesos corriendo en el CPU
+htop =  Administra interactivamente los procesos del sistema
+mkdir = Para la creacion de directorios
+&& = Funcion logica AND
+|| = Funcion logica OR
+useradd = Añadir usuarios al sistemas operativo
+alias = Define o muestra aliases. Util para no correr comandos muy largos
+history = Muestra una lista de todos los comandos corridos en el sistema operativo. Por defecto muestra solo 1000 lineas
+!N = Basado en la información de history, si se quiere volver a correr tal comando de la lista se pone el ! seguido por el número de linea
+!! = Vuelve a ejecutar el comando que se utilizo anteriormente.
+nmap = herramienta de exploración de redes y seguridad / escáner de puertos. Verifica cuales puertos estan abiertos.
+swapon = Habilitar/deshabilitar los dispositivos y archivos para la búsqueda y el intercambio
+ls -l = Muestra la lista de contenidos de un directorio, y con la segunda l los acomoda en lista con mas detalles 
+du -h = Estimación del uso de espacio de archivo. Con la -h lo hace en Human readable, para leer mejor los datos de almacenamiento
+stat = Mostrar el estado del archivo o del sistema de archivos
+chown {usuario} {archivo} = cambiar el propietario del archivo y el grupo
+chmod {permisos} {archivo} = Le da ciertos permisos a un archivo en especifico de lectura, escritura y ejecucion 
+mount = montar un sistema de archivos
+free = Mostrar la cantidad de memoria libre y usada en el sistema
+gparted = Editor de particiones Gnome para manipular las particiones del disco
+mv = mover (renombrar) archivos
+cp = copiar archivos y directorios
+rm = eliminar archivos o directorios
+shutdown = Apagar el sistema
+echo $VARIABLE = Crear variables en linux 
+tar = utilidad de archivar en tar  
+hostname = Mostrar o establecer el nombre del host del sistema
+| = Pipe, para filtrar comandos
+cat = Muestra el contenido de un archivo en consola
+sudo apt update = Verifica cuales aplicaciones tienen actualizaciones pendientes
+sudo apt upgrade = Instala las actualizaciones pendientes de las aplicaciones
+pwd = Nos indica en que directorio estamos actualmente 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
