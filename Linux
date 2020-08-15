@@ -37,7 +37,7 @@ cat = Muestra el contenido de un archivo en consola
 sudo apt update = Verifica cuales aplicaciones tienen actualizaciones pendientes
 sudo apt upgrade = Instala las actualizaciones pendientes de las aplicaciones
 pwd = Nos indica en que directorio estamos actualmente 
-
+find= Encuentra directorios o archivos
  
 
 
