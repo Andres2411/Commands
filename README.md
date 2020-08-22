@@ -1,5 +1,5 @@
 ### COMMANDOS LINUX 
-
+![alt text]
 Comandos aprendidos durante el curso de Sistemas Operativos 
 ```sh
 !! = Vuelve a ejecutar el comando que se utilizo anteriormente.
